@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/aGr4zxUYzSgAAAAC/dcbanner-discord.gif"  height="360" alt="banner">
 </div>
 
-<h2 align="left">Wassup Motherfuckers! My name is Jeremy Quiroz and I'm a 2nd Year BSIT Student, from Centro Escolar University Makati Campus</h2>
+<h2 align="left">Bossing! Kamusta ang buhay buhay? My name is Jeremy Quiroz and I'm a 2nd Year BSIT Student, from Centro Escolar University Makati Campus</h2>
 <h3 align="left">👩‍💻  About Me </h3>
 <p align="left">I'm Jeremy Quiroz from Laguna, I am 20 years old<br><br>- 🏫 I am a 2nd year IT Stdent<br>- 🏀 I like to play basketball<br>- 📚 I also like to study </p>
 
