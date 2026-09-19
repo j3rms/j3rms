@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Jeremy Quiroz 👋
@@ -41,49 +40,30 @@ I completed my internship at **Macquarie Group Philippines** under the **Corpora
 ### 📊 Data Analytics & Business Intelligence
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
----
 
 ### 💻 Programming & Development
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,spring,html,css,tailwind" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,spring,html,css,tailwind" />
 </p>
-
----
 
 ### 🗄️ Databases
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
-
----
 
 ### 🔧 Development Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
 </p>
 
 ---
@@ -96,7 +76,7 @@ An IoT-powered aeroponics platform designed to automate and monitor urban farmin
 
 **Role:** Project Leader / Project Manager & Full-Stack Developer
 
-#### Key Features
+**Key Features**
 
 - Real-time monitoring of pH, TDS, and water levels
 - Automated misting and environmental controls
@@ -105,11 +85,11 @@ An IoT-powered aeroponics platform designed to automate and monitor urban farmin
 - Web-based monitoring dashboard
 - NodeMCU sensor and actuator integration
 
-#### Technologies
+**Technologies**
 
 `React.js` `Tailwind CSS` `Java Spring Boot` `Node.js` `MySQL` `PostgreSQL` `NodeMCU` `IoT`
 
-#### Recognition
+**Recognition**
 
 🏆 **Best Thesis — CEU Makati**
 
@@ -121,7 +101,7 @@ An IoT-powered aeroponics platform designed to automate and monitor urban farmin
 
 A full-stack travel and tourism platform designed to simplify destination discovery and booking.
 
-#### Features
+**Features**
 
 - User authentication
 - Travel and destination browsing
@@ -129,7 +109,7 @@ A full-stack travel and tourism platform designed to simplify destination discov
 - Responsive user interface
 - Backend API integration
 
-#### Technologies
+**Technologies**
 
 `React.js` `Tailwind CSS` `Spring Boot` `Express.js` `MySQL` `PostgreSQL`
 
@@ -139,7 +119,7 @@ A full-stack travel and tourism platform designed to simplify destination discov
 
 A full-stack web application for managing online auctions and transactions.
 
-#### Features
+**Features**
 
 - Online bidding workflow
 - User authentication
@@ -147,7 +127,7 @@ A full-stack web application for managing online auctions and transactions.
 - Transaction management
 - Responsive dashboard
 
-#### Technologies
+**Technologies**
 
 `React.js` `Java Spring Boot` `Express.js` `MySQL` `PostgreSQL`
 
@@ -157,7 +137,7 @@ A full-stack web application for managing online auctions and transactions.
 
 A digital newsstand application designed for managing and accessing published content.
 
-#### Features
+**Features**
 
 - CRUD functionality
 - User authentication
@@ -170,7 +150,7 @@ A digital newsstand application designed for managing and accessing published co
 
 A data-driven application designed to organize job applications and automate follow-ups.
 
-#### Features
+**Features**
 
 - Job application tracking
 - Application status management
@@ -179,7 +159,7 @@ A data-driven application designed to organize job applications and automate fol
 - Power BI reporting dashboard
 - Weekly application summaries
 
-#### Technologies
+**Technologies**
 
 `React.js` `Spring Boot` `PostgreSQL` `Power Automate` `Power BI`
 
@@ -193,7 +173,7 @@ A data-driven application designed to organize job applications and automate fol
 
 Worked on data analytics, reporting, automation, troubleshooting, and process improvement initiatives.
 
-#### Key Contributions
+**Key Contributions**
 
 - Developed **Power BI dashboards** for invoice, purchase order, requisition, and approval datasets
 - Built and maintained **Alteryx workflows** for data preparation and automation
@@ -209,13 +189,9 @@ Worked on data analytics, reporting, automation, troubleshooting, and process im
 ## 🏅 Certifications
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Alteryx-Designer%20Core%20Certified-0078C0?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20SQL-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Alteryx-Designer%20Core%20Certified-0078C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20SQL-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
@@ -266,7 +242,7 @@ Worked on data analytics, reporting, automation, troubleshooting, and process im
 
 I'm currently interested in opportunities involving:
 
-`Data Analytics` • `Business Intelligence` • `Business Analysis` • `Automation` • `Software Development`
+**Data Analytics • Business Intelligence • Business Analysis • Automation • Software Development**
 
 I'm always open to collaborating on interesting projects, learning new technologies, and connecting with other professionals in tech.
 
@@ -275,11 +251,8 @@ I'm always open to collaborating on interesting projects, learning new technolog
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://j-portfolio-pi-coral.vercel.app/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremyryan.developer@gmail.com)
-
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jeremyryannn)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeremyryannn)
 
 </div>
@@ -292,10 +265,8 @@ I'm always open to collaborating on interesting projects, learning new technolog
 
 <img src="https://komarev.com/ghpvc/?username=j3rms&style=for-the-badge" />
 
-<br>
-<br>
+<br><br>
 
 ### Thanks for visiting my profile! 👋
 
 </div>
-```
